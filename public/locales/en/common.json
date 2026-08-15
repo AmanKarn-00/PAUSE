@@ -1,0 +1,302 @@
+{
+  "app": {
+    "name": "PAUSE",
+    "tagline": "PAUSE before you Pay, Sign, Share or Travel."
+  },
+  "nav": {
+    "home": "Home",
+    "learn": "Learn",
+    "practice": "Practice",
+    "verify": "Verify",
+    "about": "About"
+  },
+  "language": {
+    "label": "Language",
+    "ne": "नेपाली",
+    "en": "English"
+  },
+  "home": {
+    "headline": "PAUSE.",
+    "subheadline": "Verify information before going abroad.",
+    "actionLine": "PAUSE before you Pay, Sign, Share or Travel.",
+    "primaryCta": "Learn PAUSE",
+    "secondaryCta": "Practice with a foreign employment offer",
+    "verifyCta": "Where to verify?",
+    "heroDescription": "When a foreign-employment opportunity asks you to act, PAUSE: identify the provider, authenticate independently, understand the incentive, stop the rush, and verify the evidence before acting.",
+    "statsScenarios": "Practice Scenarios",
+    "statsVerification": "Official Verification Routes",
+    "statsLanguages": "Languages"
+  },
+  "pause": {
+    "title": "The PAUSE Framework",
+    "subtitle": "Five steps to evaluate a foreign employment offer",
+    "provider": {
+      "letter": "P",
+      "label": "Provider",
+      "question": "Who is providing this information?",
+      "emphasis": "Identify the recruiter, agency, sender and claimed provider.",
+      "description": "The first step is to understand where the information came from. The person who sent the message may not be the original source. A Facebook post, WhatsApp message or recruitment agent is not the final authority.",
+      "tip": "The sender and the original source can be different."
+    },
+    "authenticate": {
+      "letter": "A",
+      "label": "Authenticate",
+      "question": "Can this be confirmed from an official or independent source?",
+      "emphasis": "Move to a source not controlled by the original sender.",
+      "description": "Don't ask for confirmation from the same person or organization. Check with official government websites, departments or independent sources.",
+      "tip": "Asking the same source for confirmation is not confirmation."
+    },
+    "incentive": {
+      "letter": "U",
+      "label": "Understand the Incentive",
+      "question": "Who benefits if I believe this or take action?",
+      "emphasis": "Recognize incentives without labelling every incentive as fraud.",
+      "description": "Someone benefiting doesn't automatically mean it's fraud. But understanding who benefits helps you stay more careful.",
+      "tip": "Benefit ≠ fraud, but understanding benefit = safety."
+    },
+    "rush": {
+      "letter": "S",
+      "label": "Stop the Rush",
+      "question": "Why am I being rushed?",
+      "emphasis": "Treat urgency as a reason to slow down.",
+      "description": "\"Pay today or lose the job\" — this is pressure. Real opportunities give time to verify. Rushing is a strategy to make you act without checking.",
+      "tip": "Rush = reason to check, not reason to hurry."
+    },
+    "evidence": {
+      "letter": "E",
+      "label": "Evidence",
+      "question": "What evidence can I check before acting?",
+      "emphasis": "Compare concrete evidence before acting.",
+      "description": "Check concrete details such as employer, agency, post, salary, location, fees and approval information. A matching logo or company name alone is not enough.",
+      "tip": "One matching detail doesn't create trust — compare multiple fields."
+    },
+    "learnMore": "Learn more",
+    "nextStep": "Next step",
+    "prevStep": "Previous step",
+    "startPractice": "Start practicing",
+    "backToOverview": "Back to overview"
+  },
+  "practice": {
+    "title": "Practice Scenarios",
+    "subtitle": "Learn to use PAUSE in realistic foreign employment situations",
+    "startScenario": "Start practice",
+    "difficulty": "Difficulty",
+    "channel": "Channel",
+    "scenarioCount": "{{count}} scenarios available"
+  },
+  "scenario": {
+    "intro": "You received this message",
+    "channel": "Channel",
+    "offerDetails": "Offer Details",
+    "country": "Country",
+    "employer": "Employer",
+    "agency": "Agency",
+    "post": "Position",
+    "salary": "Salary",
+    "fee": "Fee",
+    "deadline": "Deadline",
+    "choiceTitle": "What will you do?",
+    "proceedNow": "Proceed immediately",
+    "pauseNow": "PAUSE",
+    "proceedWarning": "Stop! Acting in a rush increases risk. Protect yourself by completing each step of PAUSE.",
+    "stepOf": "Step {{current}} of {{total}}",
+    "selectAnswer": "Select your answer",
+    "checkAnswer": "Check answer",
+    "correct": "Correct!",
+    "incorrect": "Reconsider",
+    "explanation": "Explanation",
+    "nextQuestion": "Next question",
+    "verificationStep": "Verification Step",
+    "verifyInstruction": "Now verify this information from an official source",
+    "viewResults": "View results",
+    "tryAnother": "Try another scenario",
+    "backToScenarios": "Back to scenarios",
+    "completed": "Scenario completed!",
+    "yourScore": "Your score",
+    "outOf": "out of {{total}}"
+  },
+  "decision": {
+    "verified": {
+      "title": "Officially Verified",
+      "description": "The information matches official sources. But always stay alert and re-check when new information comes.",
+      "action": "You may proceed, but re-check all details before signing any contract."
+    },
+    "mismatch": {
+      "title": "Information Mismatch",
+      "description": "There are differences between the claimed information and official sources. This is a serious warning sign.",
+      "action": "Do not pay and do not sign documents. Seek more information or contact the Department of Foreign Employment."
+    },
+    "cannotVerify": {
+      "title": "Could Not Verify",
+      "description": "The available evidence is not sufficient to confirm or deny the information. Uncertainty does not mean you must decide now.",
+      "action": "Don't rush. Seek more information, ask the department, or consult a trusted person."
+    }
+  },
+  "verify": {
+    "title": "Official Verification Routes",
+    "subtitle": "Use these official sources to verify foreign employment information",
+    "visitSite": "Visit website",
+    "lastChecked": "Last checked",
+    "whatToCheck": "What to check",
+    "fieldsToCompare": "Fields to compare",
+    "importantNote": "Important",
+    "importantNoteText": "A matching logo or company name alone is not enough. Compare multiple fields so that one copied detail cannot create false confidence.",
+    "disclaimer": "This application does not replace official government systems. It teaches you where and how to verify."
+  },
+  "about": {
+    "title": "About PAUSE",
+    "whatIs": "What is PAUSE?",
+    "whatIsText": "PAUSE is an interactive information literacy tool that teaches people seeking foreign employment in Nepal how to independently verify offers.",
+    "notWhat": "What PAUSE is NOT",
+    "notWhatItems": [
+      "Not a replacement for the Department of Foreign Employment or any official government database.",
+      "Not a guarantee that a job opportunity is genuine.",
+      "Not a service that asks for passport or citizenship documents for normal learning activities."
+    ],
+    "methodology": "Methodology",
+    "methodologyText": "The PAUSE framework teaches five repeatable questions: P — Provider, A — Authenticate, U — Understand the Incentive, S — Stop the Rush, and E — Evidence. The most important learning outcome is not memorizing the acronym; it is demonstrating a change in verification behaviour before paying money, signing documents, sharing sensitive information, or travelling.",
+    "principles": "Content Principles",
+    "principlesList": [
+      "Never equate \"professional appearance\" with authenticity.",
+      "Never make \"AI-generated\" synonymous with \"false\".",
+      "Never make \"someone benefits\" synonymous with \"fraud\".",
+      "Never make urgency proof of fraud; make it a reason to pause.",
+      "Never turn inability to verify into certainty about falsity.",
+      "Always teach the next verification action."
+    ],
+    "sources": "Sources",
+    "builtFor": "Built for foreign-employment information literacy in Nepal"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "back": "Back",
+    "next": "Next",
+    "close": "Close",
+    "learnMore": "Learn more",
+    "getStarted": "Get started",
+    "viewAll": "View all"
+  },
+  "footer": {
+    "disclaimer": "This application does not replace official government systems.",
+    "copyright": "© PAUSE Project"
+  },
+  "scenarios": {
+    "highSalary": {
+      "title": "High Salary Job Offer",
+      "description": "A high-salary offer for a Construction Supervisor position in Dubai received via Facebook. Is it genuine?",
+      "messagePreview": "Construction Supervisor job open in Dubai! Salary Rs. 1,50,000 per month, free food and accommodation. Pay Rs. 2,00,000 by tomorrow or we give it to another candidate. Contact: Bright Future Manpower",
+      "p": {
+        "opt1": "This offer is reliable because it has many likes and shares on Facebook.",
+        "opt2": "The sender and the claimed company/agency might be different — I need to figure out who the original sender is first.",
+        "opt3": "I already know this agency, so it's reliable.",
+        "explanation": "Having likes and shares on Facebook doesn't mean the information is true. The first step is to separate who sent the message from whether the claimed company is genuine.",
+        "feedbackCorrect": "Good! You understood the difference between the sender and the original source. A Facebook post is not an official confirmation.",
+        "feedbackIncorrect": "Being popular on Facebook doesn't mean the information is true. The sender and the claimed company can be different."
+      },
+      "a": {
+        "opt1": "I'll ask on the same Facebook page — they will confirm it.",
+        "opt2": "I'll go to the agency's office to ask.",
+        "opt3": "I'll check the agency's name and license number from the Department of Foreign Employment's website.",
+        "explanation": "Asking the same source for confirmation is not confirmation. You must verify from an independent, official source like the Department of Foreign Employment (DOFE) website.",
+        "feedbackCorrect": "Excellent! The DOFE website is an independent, official source where you can check the agency's license and status.",
+        "feedbackIncorrect": "Asking the same source doesn't provide independent verification. Verify from an official government source."
+      },
+      "u": {
+        "opt1": "The agency is asking for a fee of Rs. 2,00,000 — they benefit if I pay, but this doesn't automatically mean it's a scam. However, understanding this makes me more careful.",
+        "opt2": "Nobody benefits — this is a service.",
+        "opt3": "Since they benefit, this is definitely a scam.",
+        "explanation": "Someone benefiting doesn't automatically mean it's a scam. Legitimate agencies also charge fees. But understanding who benefits and why helps you stay more careful.",
+        "feedbackCorrect": "Correct! Understanding benefit doesn't mean doubting everyone — it means staying careful.",
+        "feedbackIncorrect": "Benefiting and scamming are not the same thing. Even legitimate businesses have fees, but it's important to understand them."
+      },
+      "s": {
+        "opt1": "I have to pay by tomorrow — I'll hurry otherwise I'll lose the job.",
+        "opt2": "The deadline of tomorrow is pressure — it's a reason to verify, not a reason to hurry.",
+        "opt3": "If there's a deadline, it must be real — fake offers don't have deadlines.",
+        "explanation": "\"Pay tomorrow or it goes to someone else\" is a pressure tactic. Real opportunities give time to verify. Treat the rush as a reason to check.",
+        "feedbackCorrect": "Correct! The rush is a reason to verify. Real employers give time to check.",
+        "feedbackIncorrect": "Having a deadline doesn't mean the offer is real. Pressure is a tactic to make you act without checking."
+      },
+      "e": {
+        "opt1": "The document provided by the agency is enough evidence.",
+        "opt2": "The Facebook post has the company's logo, so it's real.",
+        "opt3": "I'll compare details like employer, agency, post, salary, fees, and approval info from the DOFE website.",
+        "explanation": "A matching logo or company name alone is not enough. You must compare all fields — employer, agency license, post, salary, fees — against the official source.",
+        "feedbackCorrect": "Excellent! Comparing multiple fields means one copied detail cannot create false confidence.",
+        "feedbackIncorrect": "Logos and documents are easy to copy. Compare multiple fields from an official source."
+      }
+    },
+    "genuine": {
+      "title": "Genuine EPS Job Opportunity",
+      "description": "An offer for a factory worker position in South Korea under the EPS program from a recruitment agency office. PAUSE can confirm real opportunities too.",
+      "messagePreview": "Applications are open for factory worker positions at Samsung C&T Corporation in South Korea under the EPS program. Salary Rs. 80,000–1,00,000 per month. Fees as per government rates. EPS application deadline is approaching.",
+      "p": {
+        "opt1": "This info is from a licensed recruitment agency office — I'll verify the agency's license first.",
+        "opt2": "Because it's in an office, it's definitely real.",
+        "opt3": "The EPS program is a government program, so there's no need to verify.",
+        "explanation": "Being in an office or using a government program's name doesn't automatically make it reliable. The first step is to identify the provider and check their license.",
+        "feedbackCorrect": "Good! Even in an agency office, checking the license is a good practice.",
+        "feedbackIncorrect": "Having an office or using a government program name doesn't guarantee the information is true. Always verify."
+      },
+      "a": {
+        "opt1": "I'll ask at the agency office — they'll confirm it themselves.",
+        "opt2": "I'll verify the agency's license, EPS program details, and Samsung C&T's listing from the DOFE website.",
+        "opt3": "I'll ask friends — they have gone before.",
+        "explanation": "The DOFE website and EPS program info are independent, official sources. The agency office or friends are not independent sources.",
+        "feedbackCorrect": "Excellent! DOFE and EPS program info are official independent sources.",
+        "feedbackIncorrect": "The agency office or friends are not independent sources. Verify from an official government source."
+      },
+      "u": {
+        "opt1": "If the agency charges a fee, it's a scam.",
+        "opt2": "The agency charges fees as per government rates — this is a legitimate business practice, but I'll compare the fee amount with government rates.",
+        "opt3": "It doesn't matter who benefits.",
+        "explanation": "Legitimate agencies also charge fees — it's a business practice. The important thing is to compare whether the fee matches government rates.",
+        "feedbackCorrect": "Correct! It's wise to compare the fee with government rates.",
+        "feedbackIncorrect": "Charging a fee and scamming are not the same. Compare with government rates."
+      },
+      "s": {
+        "opt1": "The EPS application deadline is near — this is a real deadline, but I'll still take time to verify.",
+        "opt2": "If the deadline is near, I'll pay immediately.",
+        "opt3": "Because there's a deadline, it's fake.",
+        "explanation": "The EPS program has a real application deadline — it's not a pressure tactic. But even with a real deadline, it's always good to take time to verify.",
+        "feedbackCorrect": "Good! Even with a real deadline, taking time to verify is smart.",
+        "feedbackIncorrect": "The EPS program might have a real date, but that doesn't mean you should act without checking."
+      },
+      "e": {
+        "opt1": "I'll compare agency license, EPS program listing, Samsung C&T listing, salary range, and fee rates from DOFE — all official sources.",
+        "opt2": "The letter provided by the agency is enough.",
+        "opt3": "Samsung is a big company, so there's no need to verify.",
+        "explanation": "Just a big company's name or an agency's letter is not enough. All details — license, program listing, salary, fees — must be compared from an official source.",
+        "feedbackCorrect": "Excellent! You showed the habit of comparing all important fields from an official source.",
+        "feedbackIncorrect": "A big company name or document alone is not enough. Verify multiple fields from an official source."
+      }
+    }
+  },
+  "routes": {
+    "dofe": {
+      "title": "Department of Foreign Employment (DOFE)",
+      "description": "The main authority for foreign employment management in Nepal. Service directory, announcements, and contact information."
+    },
+    "foreignJob": {
+      "title": "Foreign Job Search",
+      "description": "Search jobs by country, employer, location, job category, recruitment agency, post, salary range, and interview details."
+    },
+    "agency": {
+      "title": "Recruitment Agency Search",
+      "description": "Check recruitment agency name, permission number, and license status."
+    },
+    "prePermission": {
+      "title": "Pre-Permission Detail Search",
+      "description": "Check pre-permission details using the lot number or related information."
+    },
+    "feims": {
+      "title": "FEIMS (Foreign Employment Information Management System)",
+      "description": "Official government system for labor approval information."
+    },
+    "countries": {
+      "title": "Recognized Destination Countries",
+      "description": "Check if a destination is listed as recognized through official government routes."
+    }
+  }
+}
